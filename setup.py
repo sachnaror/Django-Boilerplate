@@ -16,7 +16,7 @@ setup(
     description=("A instigator_py template for creating production-ready " "Django projects quickly."),
     long_description=long_description,
     author="Sachin",
-    author_email="tech@sachnaror.github.io",
+    author_email="schnaror@gmail.com",
     url="https://github.com/instigator_py/instigator_py-django",
     packages=[],
     license="MIT",
