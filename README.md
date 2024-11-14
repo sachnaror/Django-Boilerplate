@@ -1,5 +1,13 @@
 # Django Boilerplate
 
+The **Django Boilerplate** is your trusty starting block for fast, secure, and scalable Django projects. It’s pre-loaded with:
+
+- **100% Test Coverage** and **12-Factor Settings**, plus **Bootstrap v5** for a slick, mobile-ready UI.
+- **ASGI Setup** for WebSockets, **Celery** for task management, and **Django AllAuth** for seamless social logins.
+- **Docker and Traefik** for a professional-grade dev and production environment, with support for **PostgreSQL**, **MySQL**, and multiple cloud services.
+- Optional integrations like **Sentry** for error tracking, **Twilio** for SMS, and **PGAdmin** for easy database management.
+
+Kickstart your project in minutes, from deployment-ready structure to pre-set security!
 
 ## Features
 
@@ -67,7 +75,7 @@ You'll be prompted for some values. Provide them, then a Django project will be 
 Answer the prompts with your own desired. For example:
 
 ```sh
-    You've downloaded /home/django-boilerplate before. Is it okay to delete and re-download it? [y/n] (y): y
+  You've downloaded /home/django-boilerplate before. Is it okay to delete and re-download it? [y/n] (y): y
   [1/30] project_name (My Awesome Project): Your Project Name
   [2/30] project_slug (my_awesome_project): your_project_name
   [3/30] description (Behold My Awesome Project!):
