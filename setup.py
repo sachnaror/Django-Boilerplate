@@ -11,13 +11,13 @@ with open("README.rst") as readme_file:
     long_description = readme_file.read()
 
 setup(
-    name="instigator_py-django",
+    name="instigator_py",
     version=version,
     description=("A instigator_py template for creating production-ready " "Django projects quickly."),
     long_description=long_description,
     author="Sachin",
     author_email="schnaror@gmail.com",
-    url="https://github.com/instigator_py/instigator_py-django",
+    url="https://pypi.org/project/instigator-py",
     packages=[],
     license="MIT",
     zip_safe=False,
