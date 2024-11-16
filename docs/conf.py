@@ -39,7 +39,7 @@ master_doc = "index"
 
 # General information about the project.
 project = "instigator_py Django"
-copyright = f"2013-{now.year}, Daniel Roy Greenfeld"
+copyright = f"2024-{now.year}, Sachin Arora"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -237,7 +237,7 @@ texinfo_documents = [
         "index",
         "instigator_py Django",
         "instigator_py Django documentation",
-        "Daniel Roy Greenfeld",
+        "Sachin Arora",
         "instigator_py Django",
         "A instigator_py template for creating production-ready " "Django projects quickly.",
         "Miscellaneous",
