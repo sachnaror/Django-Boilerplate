@@ -218,7 +218,7 @@ man_pages = [
         "index",
         "instigator_py Django",
         "instigator_py Django documentation",
-        ["Daniel Roy Greenfeld"],
+        ["Sachin Arora"],
         1,
     )
 ]
